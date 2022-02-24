@@ -16,7 +16,7 @@ p {line-height: 2}
   background-size: cover;
 }
 .bgimg {background-image: url("2.jpg")}
-
+.bgimg2 {background-image: url("/w3images/flowers.jpg")}
 </style>
 </head>
 <body>
@@ -45,9 +45,9 @@ p {line-height: 2}
   <div class="w3-content">
     <h1 class="w3-center w3-text-grey"><b>Novita & Brian</b></h1>
     <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
-    <p><i>You all know us. And we all know you. We are getting married lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.</i>
+    <p><i>You all know us. And we all know you. We are getting married. It's a blessing how both of us meet in this world.
+      Happiness and Joyful are things that we have shared together. In this moment, we really want to share with all of you. Hope you can come to our ceremony!
+    Give us all your blessing and we will be happily ever after! </i>
     </p><br>
     <p class="w3-center"><a href="#wedding" class="w3-button w3-black w3-round w3-padding-large w3-large">Wedding Details</a></p>
   </div>
@@ -55,6 +55,7 @@ p {line-height: 2}
 
 <!-- Background photo -->
 <div class="w3-display-container bgimg2">
+<img class="w3-round-large w3-grayscale-min" src="2.jpg" style="width:100%;margin:64px 0">
   <div class="w3-display-middle w3-text-white w3-center">
     <h1 class="w3-jumbo">You Are Invited</h1><br>
     <h2>Of course..</h2>
