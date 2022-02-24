@@ -16,7 +16,7 @@ p {line-height: 2}
   background-size: cover;
 }
 .bgimg {background-image: url("2.jpg")}
-.bgimg2 {background-image: url("/w3images/flowers.jpg")}
+
 </style>
 </head>
 <body>
